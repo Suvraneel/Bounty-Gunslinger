@@ -56,7 +56,7 @@ function App() {
 
   const { getNFTBalances } = useNFTBalances();
 
-  const check_address = "0xb290E70e1a90AdF65FFA12d2Cab9b6667176ECfA";
+  const check_address = "0xfc96bb987301805d3b5c20006df7576b381c8949";
   const network_chain_id = "0x13881";
 
   const nftMetadata = [];
